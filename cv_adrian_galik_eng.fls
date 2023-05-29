@@ -268,14 +268,14 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\benger.png
-INPUT .\benger.png
-INPUT benger.png
-INPUT .\benger.png
+INPUT .\benger_eng.png
+INPUT .\benger_eng.png
+INPUT benger_eng.png
+INPUT .\benger_eng.png
 OUTPUT cv_adrian_galik_eng.pdf
-INPUT .\benger.png
-INPUT .\benger.png
-INPUT .\benger.png
+INPUT .\benger_eng.png
+INPUT .\benger_eng.png
+INPUT .\benger_eng.png
 INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1bch.fd

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  23 MAY 2023 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 02:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,10 +282,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<benger.png, id=1, 2489.3pt x 622.325pt>
-File: benger.png Graphic file (type png)
-<use benger.png>
-Package pdftex.def Info: benger.png  used on input line 18.
+<benger_eng.png, id=1, 2489.3pt x 622.325pt>
+File: benger_eng.png Graphic file (type png)
+<use benger_eng.png>
+Package pdftex.def Info: benger_eng.png  used on input line 18.
 (pdftex.def)             Requested size: 622.32349pt x 155.58086pt.
 
 Overfull \hbox (50.0585pt too wide) in paragraph at lines 18--24
@@ -313,16 +313,6 @@ Overfull \hbox (7.76593pt too wide) in paragraph at lines 27--31
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--31
 
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 42--43
-[]\T1/bch/m/n/10 Monta» i eks-plo-ata-cja sys-te-mów
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 43--44
-\T1/bch/m/n/10 stronami in-ter-ne-to-wy-mi: \T1/bch/b/n/10 HTML,
  []
 
 
@@ -371,33 +361,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--101
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--115
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--115
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 109--115
-\T1/bch/m/n/7 Wyra»am zgo-d¦ na prze-twa-rza-nie mo-ich da-nych oso-bo-wych za-war-tych w do-ku-men-tach apli-ka-cyj-
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
+
  []
 
 [1
 
-{C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger.png>] (cv_adrian_galik_eng.aux) ) 
+{C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger_eng.png>] (cv_adrian_galik_eng.aux) ) 
 Here is how much of TeX's memory you used:
  3711 strings out of 476315
- 63130 string characters out of 5797012
+ 63158 string characters out of 5797012
  1865068 words of memory out of 5000000
  24133 multiletter control sequences out of 15000+600000
  525721 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,5n,77p,284b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik_eng.pdf (1 page, 2838788 bytes).
+Output written on cv_adrian_galik_eng.pdf (1 page, 2836075 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
