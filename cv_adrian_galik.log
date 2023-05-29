@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 03:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex
-(c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex
+**c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex
+(c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-04-20> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -282,13 +282,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<benger.png, id=1, 2489.3pt x 622.325pt>
-File: benger.png Graphic file (type png)
-<use benger.png>
-Package pdftex.def Info: benger.png  used on input line 18.
-(pdftex.def)             Requested size: 622.32349pt x 155.58086pt.
+<benger.jpg, id=1, 2524.36057pt x 631.09013pt>
+File: benger.jpg Graphic file (type jpg)
+<use benger.jpg>
+Package pdftex.def Info: benger.jpg  used on input line 18.
+(pdftex.def)             Requested size: 618.4545pt x 154.61362pt.
 
-Overfull \hbox (50.0585pt too wide) in paragraph at lines 18--24
+Overfull \hbox (46.18951pt too wide) in paragraph at lines 18--24
 [] []
  []
 
@@ -397,19 +397,19 @@ Underfull \hbox (badness 1178) in paragraph at lines 110--116
 
 [1
 
-{C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger.png>] (cv_adrian_galik.aux) ) 
+{C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger.jpg>] (cv_adrian_galik.aux) ) 
 Here is how much of TeX's memory you used:
  3711 strings out of 476315
- 63082 string characters out of 5797012
+ 63131 string characters out of 5797012
  1865068 words of memory out of 5000000
  24133 multiletter control sequences out of 15000+600000
  525721 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,280b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,77p,287b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik.pdf (1 page, 2838934 bytes).
+Output written on cv_adrian_galik.pdf (1 page, 411489 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
+ 18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
