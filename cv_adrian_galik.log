@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  20 JUN 2023 23:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex
-(c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex
+**c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex
+(c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-04-20> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -356,8 +356,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--79
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 72--79
-\T1/bch/m/n/10 Ambitnym stu-dent \T1/bch/b/n/10 Ma-te-ma-ty-ki Sto-so-wa-nej\T1/bch/m/n/10 . Wi¦-dz¦ ma-te-ma-tycz-n¡
+Underfull \hbox (badness 7981) in paragraph at lines 72--79
+\T1/bch/m/n/10 Ambitny stu-dent \T1/bch/b/n/10 Ma-te-ma-ty-ki Sto-so-wa-nej\T1/bch/m/n/10 . Wi¦-dz¦ ma-te-ma-tycz-n¡
  []
 
 
@@ -400,14 +400,14 @@ Underfull \hbox (badness 1178) in paragraph at lines 110--116
 {C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger.jpg>] (cv_adrian_galik.aux) ) 
 Here is how much of TeX's memory you used:
  3711 strings out of 476315
- 63131 string characters out of 5797012
+ 63082 string characters out of 5797012
  1865068 words of memory out of 5000000
  24133 multiletter control sequences out of 15000+600000
  525721 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,287b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,77p,280b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik.pdf (1 page, 411489 bytes).
+Output written on cv_adrian_galik.pdf (1 page, 411490 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

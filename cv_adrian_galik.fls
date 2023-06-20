@@ -1,6 +1,6 @@
-PWD c:\Users\adria\Desktop\Programowanie\pajton\cv
+PWD c:\Users\adria\Desktop\Programowanie\cv
 INPUT C:\Users\adria\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\adria\Desktop\Programowanie\pajton\cv\cv_adrian_galik.tex
+INPUT c:\Users\adria\Desktop\Programowanie\cv\cv_adrian_galik.tex
 OUTPUT cv_adrian_galik.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1685390229 "c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1685390230 0
+["pdflatex"] 1687296307 "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1687296308 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -47,9 +47,9 @@
   "C:/Users/adria/AppData/Roaming/MiKTeX/tex/latex/psnfss/t1bch.fd" 1585253778 817 e9917b6850ae4e6942b543ca308d874c ""
   "C:/Users/adria/AppData/Roaming/MiKTeX/tex/latex/psnfss/ts1bch.fd" 1585253778 653 714c95de6bdfe7fd2ff11be7337fbafb ""
   "benger.jpg" 1685390093 370271 3e6b8591e495fa671b6aabcfad26e2cb ""
-  "c:/Users/adria/Desktop/Programowanie/pajton/cv/cv_adrian_galik.tex" 1685390228 6098 d9ba7d21d95a0e15ca0608e45461e7fd ""
-  "cv_adrian_galik.aux" 1685390230 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "cv_adrian_galik.tex" 1685390228 6098 d9ba7d21d95a0e15ca0608e45461e7fd ""
+  "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" 1687296305 6096 3c6ec4fed2838d545aa7f0d8c6390fb8 ""
+  "cv_adrian_galik.aux" 1687296308 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv_adrian_galik.tex" 1687296305 6096 3c6ec4fed2838d545aa7f0d8c6390fb8 ""
   (generated)
   "cv_adrian_galik.aux"
   "cv_adrian_galik.log"
