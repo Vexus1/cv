@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  10 AUG 2023 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  30 SEP 2023 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,29 +205,47 @@ Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
 \FV@OutFile=\write3
 ) (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/nopageno\nopageno.sty
 Package: nopageno 1989/01/01 no page numbers (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-LaTeX Font Info:    Trying to load font information for T1+bch on input line 14.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 15.
  (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) (cv_adrian_galik_eng.aux)
 \openout1 = `cv_adrian_galik_eng.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -278,125 +296,136 @@ LaTeX Font Info:    ... okay on input line 14.
 \everyMPtoPDFconversion=\toks20
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\adria\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Users\adria\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\adria\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 <benger_eng.jpg, id=1, 2524.36057pt x 631.09013pt>
 File: benger_eng.jpg Graphic file (type jpg)
 <use benger_eng.jpg>
-Package pdftex.def Info: benger_eng.jpg  used on input line 18.
+Package pdftex.def Info: benger_eng.jpg  used on input line 19.
 (pdftex.def)             Requested size: 618.4545pt x 154.61362pt.
 
-Overfull \hbox (46.18951pt too wide) in paragraph at lines 18--24
+Overfull \hbox (46.18951pt too wide) in paragraph at lines 19--25
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--24
+Underfull \hbox (badness 10000) in paragraph at lines 19--25
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 32.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 33.
 (C:\Users\adria\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--32
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
 
-Overfull \hbox (7.76593pt too wide) in paragraph at lines 28--32
+Overfull \hbox (7.76593pt too wide) in paragraph at lines 29--33
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--32
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
 
-Overfull \hbox (7.76593pt too wide) in paragraph at lines 50--53
+Overfull \hbox (7.76593pt too wide) in paragraph at lines 53--56
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
 
-Overfull \hbox (7.76593pt too wide) in paragraph at lines 59--62
+Overfull \hbox (7.76593pt too wide) in paragraph at lines 62--65
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--79
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--79
+Underfull \hbox (badness 10000) in paragraph at lines 79--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--79
+Underfull \hbox (badness 10000) in paragraph at lines 79--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--113
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
@@ -404,15 +433,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
 {C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./benger_eng.jpg>] (cv_adrian_galik_eng.aux) ) 
 Here is how much of TeX's memory you used:
- 3711 strings out of 476315
- 63158 string characters out of 5797012
+ 4812 strings out of 476315
+ 81479 string characters out of 5797012
  1865068 words of memory out of 5000000
- 24133 multiletter control sequences out of 15000+600000
+ 25193 multiletter control sequences out of 15000+600000
  525721 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,463b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,77p,284b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik_eng.pdf (1 page, 411347 bytes).
+Output written on cv_adrian_galik_eng.pdf (1 page, 411933 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
