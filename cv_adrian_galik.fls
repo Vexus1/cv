@@ -1,406 +1,116 @@
-PWD c:\Users\adria\Desktop\Programowanie\cv
-INPUT C:\Users\adria\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\adria\Desktop\Programowanie\cv\cv_adrian_galik.tex
+PWD c:/Users/xxx/Desktop/programing/cv/cv
+INPUT c:/texlive/2023/texmf.cnf
+INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/xxx/Desktop/programing/cv/cv/cv_adrian_galik.tex
 OUTPUT cv_adrian_galik.log
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\polski.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ot4enc.def
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\polski\ot4cmr.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\public\pl\plr10.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\charter.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\nopageno\nopageno.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
-INPUT .\cv_adrian_galik.aux
-INPUT cv_adrian_galik.aux
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2023/texmf-dist/tex/latex/polski/polski.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/polski/polski.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/polski/ot4cmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/polski/ot4cmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/ot4enc.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/polski/ot4cmr.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/pl/plr10.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/charter.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/charter.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/nopageno/nopageno.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/nopageno/nopageno.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1bch.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1bch.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1bch.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchr8t.tfm
+INPUT ./cv_adrian_galik.aux
+INPUT ./cv_adrian_galik.aux
 INPUT cv_adrian_galik.aux
 OUTPUT cv_adrian_galik.aux
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\benger.jpg
-INPUT .\benger.jpg
-INPUT benger.jpg
-INPUT .\benger.jpg
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./benger.jpg
+INPUT ./benger.jpg
+INPUT ./benger.jpg
+INPUT ./benger.jpg
 OUTPUT cv_adrian_galik.pdf
-INPUT .\benger.jpg
-INPUT .\benger.jpg
-INPUT .\benger.jpg
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchr8c.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
-INPUT C:\Users\adria\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\vf\bitstrea\charter\bchr8c.vf
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\vf\bitstrea\charter\bchr8t.vf
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\vf\bitstrea\charter\bchr8t.vf
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
+INPUT ./benger.jpg
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchb8t.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchb8t.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1bch.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1bch.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1bch.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchr8c.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchr8t.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/bitstrea/charter/bchb8t.vf
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm
+INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/bitstrea/charter/bchb8t.vf
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/bitstrea/charter/bchr8c.vf
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchr8r.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/bitstrea/charter/bchr8t.vf
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/bitstrea/charter/bchr8t.vf
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchr8r.tfm
 INPUT cv_adrian_galik.aux
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
-INPUT C:\Users\adria\AppData\Roaming\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb
