@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1709124680 "c:/Users/xxx/Desktop/programing/cv/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1709124682 0
+["pdflatex"] 1709541755 "c:/Users/xxx/Desktop/programing/cv/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1709541758 0
   "benger.jpg" 1697469211 370271 3e6b8591e495fa671b6aabcfad26e2cb ""
-  "c:/Users/xxx/Desktop/programing/cv/cv/cv_adrian_galik.tex" 1709124679 7366 54205dd26810e18f021709266e8f9f14 ""
+  "c:/Users/xxx/Desktop/programing/cv/cv/cv_adrian_galik.tex" 1709541749 7377 238dfa50c9a7f4c13a2de9ee5c84edae ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1701350837 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701351541 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1701349955 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
@@ -54,8 +54,8 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701381957 4754669 d96ac81ce84784930de265f48f40d2ce ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705575650 8213637 ec366cabfa5e119c0dc24082dd002c72 ""
   "c:/texlive/2023/texmf.cnf" 1701381929 713 e69b156964470283e0530f5060668171 ""
-  "cv_adrian_galik.aux" 1709124682 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "cv_adrian_galik.tex" 1709124679 7366 54205dd26810e18f021709266e8f9f14 ""
+  "cv_adrian_galik.aux" 1709541757 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv_adrian_galik.tex" 1709541749 7377 238dfa50c9a7f4c13a2de9ee5c84edae ""
   (generated)
   "cv_adrian_galik.aux"
   "cv_adrian_galik.log"
