@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  17 MAR 2024 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  17 MAR 2024 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -435,13 +435,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--133
 Here is how much of TeX's memory you used:
  4812 strings out of 476315
  81479 string characters out of 5797012
- 1866068 words of memory out of 5000000
+ 1865068 words of memory out of 5000000
  25193 multiletter control sequences out of 15000+600000
  525721 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,5n,77p,284b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/adria/AppData/Roaming/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik_eng.pdf (1 page, 411986 bytes).
+Output written on cv_adrian_galik_eng.pdf (1 page, 411988 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
