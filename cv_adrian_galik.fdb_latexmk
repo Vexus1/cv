@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713977250 "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1713977251 0
+["pdflatex"] 1717097501 "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1717097503 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -26,7 +26,7 @@
   "C:/Program Files/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1675359988 4674 257c150d9d5c2fbc229303c8beaf6228 ""
   "C:/Program Files/MiKTeX/tex/latex/tools/multicol.sty" 1667242266 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1704652377 129129 867e5f45e2b873027402203c530ef800 ""
+  "C:/Users/adria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715710889 129129 867e5f45e2b873027402203c530ef800 ""
   "C:/Users/adria/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1683426366 23173301 82511454778e11dcc16a6b970a8c55dc ""
   "C:/Users/adria/AppData/Roaming/MiKTeX/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1136768654 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
   "C:/Users/adria/AppData/Roaming/MiKTeX/fonts/tfm/bitstrea/charter/bchb8t.tfm" 1136768654 7436 84dcb1fa28471725ae91386499aed8eb ""
@@ -58,9 +58,9 @@
   "C:/Users/adria/AppData/Roaming/MiKTeX/tex/latex/psnfss/t1bch.fd" 1585253778 817 e9917b6850ae4e6942b543ca308d874c ""
   "C:/Users/adria/AppData/Roaming/MiKTeX/tex/latex/psnfss/ts1bch.fd" 1585253778 653 714c95de6bdfe7fd2ff11be7337fbafb ""
   "benger.jpg" 1710686116 370271 3e6b8591e495fa671b6aabcfad26e2cb ""
-  "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" 1713977249 7567 b226b88de45d07996fdfa84aee7c2594 ""
-  "cv_adrian_galik.aux" 1713977251 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "cv_adrian_galik.tex" 1713977249 7567 b226b88de45d07996fdfa84aee7c2594 ""
+  "c:/Users/adria/Desktop/Programowanie/cv/cv_adrian_galik.tex" 1717097498 7567 b8e6765ad33cc798cb67198321e81eff ""
+  "cv_adrian_galik.aux" 1717097502 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv_adrian_galik.tex" 1717097498 7567 b8e6765ad33cc798cb67198321e81eff ""
   (generated)
   "cv_adrian_galik.aux"
   "cv_adrian_galik.log"
