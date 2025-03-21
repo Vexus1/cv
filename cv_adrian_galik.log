@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  18 MAR 2025 01:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  21 MAR 2025 21:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -353,70 +353,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--38
  []
 
 
-Overfull \hbox (39.83775pt too wide) in paragraph at lines 66--69
+Overfull \hbox (39.83775pt too wide) in paragraph at lines 67--70
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--102
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--102
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--102
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
 
  []
 
 
-Overfull \hbox (3.71071pt too wide) in paragraph at lines 137--138
+Overfull \hbox (6.19069pt too wide) in paragraph at lines 138--139
+[]\T1/bch/b/n/10 Informatyka - Stu-dia Ma-gi-ster-skie, Po-li-tech-ni-ka Wro-cªaw-ska\T1/bch/m/n/10 , ma-rzec 2025
+ []
+
+
+Overfull \hbox (3.71071pt too wide) in paragraph at lines 142--143
 []\T1/bch/b/n/10 Zespóª Szkóª Te-le-in-for-ma-tycz-nych i Elek-tro-nicz-nych we Wro-cªa-wiu, Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--142
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--154
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--154
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
 
  []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Galik_BANNER.png>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Galik_BANNER.png>] [2]
 
-[2] (./cv_adrian_galik.aux)
+[3] (./cv_adrian_galik.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -425,16 +430,16 @@ L3 programming layer <2024-12-25>
 Here is how much of TeX's memory you used:
  4917 strings out of 473207
  81050 string characters out of 5716288
- 591301 words of memory out of 5000000
+ 592301 words of memory out of 5000000
  28119 multiletter control sequences out of 15000+600000
  569449 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,281b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik.pdf (2 pages, 1151481 bytes).
+Output written on cv_adrian_galik.pdf (3 pages, 1152424 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

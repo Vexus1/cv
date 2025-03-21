@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1742259578.85783 "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1742259579.4745 0
-  "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex" 1742259578.65806 9051 c584ab694eb89d7d4dc2a00512552462 ""
+["pdflatex"] 1742587424.83389 "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex" "cv_adrian_galik.pdf" "cv_adrian_galik" 1742587425.46055 0
+  "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex" 1742587424.64363 9290 bf122b2c9601474b4ddd237b5a3d0046 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1136768653 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
@@ -55,8 +55,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736746889 3352332 881a48b5332b1b4b2e2976c9aba048ea ""
   "/usr/local/texlive/2024/texmf.cnf" 1736746751.75975 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "Galik_BANNER.png" 1742256916.44895 864305 3e70fa303158d65a86037a343a6da4f5 ""
-  "cv_adrian_galik.aux" 1742259579.42205 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "cv_adrian_galik.tex" 1742259578.65806 9051 c584ab694eb89d7d4dc2a00512552462 ""
+  "cv_adrian_galik.aux" 1742587425.41462 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "cv_adrian_galik.tex" 1742587424.64363 9290 bf122b2c9601474b4ddd237b5a3d0046 ""
   (generated)
   "cv_adrian_galik.aux"
   "cv_adrian_galik.log"
