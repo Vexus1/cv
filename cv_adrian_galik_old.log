@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  25 MAR 2025 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  25 MAR 2025 11:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex
-(/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik.tex
+**/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_old.tex
+(/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_old.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -88,7 +88,89 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks18
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
+\mult@box=\box52
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count282
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-12-25 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box98
+))
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count284
+\l__lipsum_a_int=\count285
+\l__lipsum_b_int=\count286
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
@@ -101,27 +183,27 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/charter.sty
 Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip51
-\enit@outerparindent=\dimen152
+\labelindent=\skip53
+\enit@outerparindent=\dimen161
 \enit@toks=\toks19
-\enit@inbox=\box52
-\enit@count@id=\count273
-\enitdp@description=\count274
+\enit@inbox=\box99
+\enit@count@id=\count287
+\enitdp@description=\count288
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
-\FV@CodeLineNo=\count275
+\FV@CodeLineNo=\count289
 \FV@InFile=\read2
-\FV@TabBox=\box53
-\c@FancyVerbLine=\count276
-\FV@StepNumber=\count277
+\FV@TabBox=\box100
+\c@FancyVerbLine=\count290
+\FV@StepNumber=\count291
 \FV@OutFile=\write3
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/nopageno/nopageno.sty
 Package: nopageno 1989/01/01 no page numbers (DPC)
@@ -143,52 +225,56 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
-Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen153
-\ar@mcellbox=\box54
-\extrarowheight=\dimen154
-\NC@list=\toks20
-\extratabsurround=\skip52
-\backup@length=\skip53
-\ar@cellbox=\box55
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/paracol/paracol.sty
+Package: paracol 2024/10/22 1.36 typeset columns in parallel
+\pcol@currcol=\count292
+\pcol@nextcol=\count293
+\pcol@ncol=\count294
+\pcol@ncolleft=\count295
+\pcol@page=\count296
+\pcol@basepage=\count297
+\pcol@toppage=\count298
+\pcol@footnotebase=\count299
+\pcol@nfootnotes=\count300
+\pcol@mcid=\count301
+\pcol@prevdepth=\dimen162
+\pcol@colht=\dimen163
+\pcol@textfloatsep=\dimen164
+\pcol@lrmargin=\dimen165
+\pagerim=\dimen166
+\pcol@topskip=\skip54
+\belowfootnoteskip=\skip55
+\pcol@topfnotes=\box101
+\pcol@prespan=\box102
+\pcol@rightpage=\box103
+\pcol@colorstack@saved=\box104
+\pcol@tempboxa=\box105
+\pcol@tempboxb=\box106
+\pcol@colorins=\insert252
+\pcol@everyvbox=\toks20
 )
-\TX@col@width=\dimen155
-\TX@old@table=\dimen156
-\TX@old@col=\dimen157
-\TX@target=\dimen158
-\TX@delta=\dimen159
-\TX@cols=\count278
-\TX@ftn=\toks21
-)
-LaTeX Font Info:    Trying to load font information for T1+bch on input line 15.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 16.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box56
-) (./cv_adrian_galik.aux)
-\openout1 = `cv_adrian_galik.aux'.
+) (./cv_adrian_galik_old.aux)
+\openout1 = `cv_adrian_galik_old.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -226,17 +312,17 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen160
-\scratchbox=\box57
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen161
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count302
+\scratchdimen=\dimen167
+\scratchbox=\box107
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen168
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks22
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -246,86 +332,114 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <Galik_BANNER.png, id=1, 462.528pt x 117.0774pt>
 File: Galik_BANNER.png Graphic file (type png)
 <use Galik_BANNER.png>
-Package pdftex.def Info: Galik_BANNER.png  used on input line 19.
+Package pdftex.def Info: Galik_BANNER.png  used on input line 20.
 (pdftex.def)             Requested size: 630.19424pt x 159.5179pt.
 
-Overfull \hbox (42.92926pt too wide) in paragraph at lines 19--20
+Overfull \hbox (42.92926pt too wide) in paragraph at lines 20--21
 [] [] 
  []
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/polski/omlplm.fd) (/usr/local/texlive/2024/texmf-dist/tex/latex/polski/omsplsy.fd) (/usr/local/texlive/2024/texmf-dist/tex/latex/polski/omxplex.fd)
-Overfull \hbox (4.71983pt too wide) in alignment at lines 30--30
-[][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 38.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Overfull \hbox (24.83775pt too wide) in paragraph at lines 32--38
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Overfull \hbox (39.83775pt too wide) in paragraph at lines 67--70
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Overfull \hbox (6.19069pt too wide) in paragraph at lines 138--139
+[]\T1/bch/b/n/10 Informatyka - Stu-dia Ma-gi-ster-skie, Po-li-tech-ni-ka Wro-cªaw-ska\T1/bch/m/n/10 , ma-rzec 2025
+ []
+
+
+Overfull \hbox (3.71071pt too wide) in paragraph at lines 142--143
+[]\T1/bch/b/n/10 Zespóª Szkóª Te-le-in-for-ma-tycz-nych i Elek-tro-nicz-nych we Wro-cªa-wiu, Tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+
+ []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Galik_BANNER.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Galik_BANNER.png>] [2]
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
-
- []
-
-
-
-[2] (./cv_adrian_galik.aux)
+[3] (./cv_adrian_galik_old.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3861 strings out of 473207
- 60003 string characters out of 5716288
- 470466 words of memory out of 5000000
- 27061 multiletter control sequences out of 15000+600000
- 574311 words of font info for 55 fonts, out of 8000000 for 9000
+ 4917 strings out of 473207
+ 81098 string characters out of 5716288
+ 592309 words of memory out of 5000000
+ 28119 multiletter control sequences out of 15000+600000
+ 569449 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,80p,398b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,7n,93p,285b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik.pdf (2 pages, 1152105 bytes).
+Output written on cv_adrian_galik_old.pdf (3 pages, 1152424 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
