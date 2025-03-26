@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  25 MAR 2025 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.13)  26 MAR 2025 08:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -264,20 +264,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 49.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
@@ -286,22 +286,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Galik_BANNER.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
@@ -320,9 +320,9 @@ Here is how much of TeX's memory you used:
  27061 multiletter control sequences out of 15000+600000
  574311 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,80p,398b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,80p,421b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on cv_adrian_galik.pdf (2 pages, 1152105 bytes).
+Output written on cv_adrian_galik.pdf (2 pages, 1152504 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
