@@ -10,6 +10,7 @@
 \usepackage[dvipsnames]{xcolor}
 \usepackage{tabularx} 
 \usepackage{array}
+\usepackage[hidelinks]{hyperref}
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 
 \begin{document}
@@ -23,10 +24,11 @@
 
 % Informacje kontaktowe
 \noindent
-\begin{tabularx}{\textwidth}{l C{12cm} r}
+\begin{tabularx}{\textwidth}{C{4cm} C{4cm} C{4cm} C{4cm}}
+    \textbf{Wrocław, Polska} &
     \textbf{+48 663 383 000} &
     \textbf{adrian1galik@gmail.com} &
-    \textbf{github.com/Vexus1}
+    \href{https://github.com/Vexus1}{\textbf{github.com/Vexus1}}
 \end{tabularx} \\
 \rule{\textwidth}{1pt} \\
 
@@ -34,12 +36,11 @@
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}O MNIE:}
 \fontsize{10pt}{10pt}\selectfont
 \\ \\
-\noindent Młody specjalista w dziedzinie \textbf{uczenia maszynowego}, ze szczególnym zainteresowaniem uczeniem przez wzmacnianie.
-Posiadam wysoką znajomość \textbf{modeli statystycznych} oraz ich praktycznych zastosowań.
-W swojej pracy łączę wiedzę matematyczną z algorytmiką oraz analizą danych, tworząc efektywne rozwiązania oparte na modelach ML. 
-Dysponuję również umiejętnościami w zakresie \textbf{algorytmów numerycznych} i \textbf{równań różniczkowych}, które wykorzystuję do rozwiązywania problemów inżynierskich i optymalizacyjnych. 
-Głównym narzędziem pracy jest dla mnie \textbf{Python}, a w projektach stawiam na solidne podstawy teoretyczne i dobrze zaprojektowaną architekturę rozwiązań.
-Od zawsze fascynują mnie algorytmy, optymalizacja i rozwiązywanie złożonych problemów przy użyciu metod matematycznych.
+\noindent Specjalista w dziedzinie \textbf{uczenia maszynowego}, ze szczególnym naciskiem na uczenie przez wzmacnianie.
+Biegła znajomość \textbf{modeli statystycznych} oraz ich praktycznego zastosowania do \textbf{analizy danych} i rozwiązywania problemów inżynierskich.
+Doświadczenie w implementacji \textbf{algorytmów numerycznych} oraz \textbf{równań różniczkowych} w zadaniach optymalizacyjnych.
+W projektach stosowana jest kombinacja solidnych podstaw matematycznych, dobrze zaprojektowanej architektury oraz języka \textbf{Python} jako głównego narzędzia programistycznego. 
+Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do gry Pong, wykorzystującego dwa podejścia z użyciem sieci neuronowych: \textbf{Deep Q-Learning} (DQN) oraz \textbf{Advantage Actor-Critic} (A2C).
 
 \noindent \rule{\textwidth}{1pt} \\
 
@@ -47,19 +48,15 @@ Od zawsze fascynują mnie algorytmy, optymalizacja i rozwiązywanie złożonych 
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}UMIEJĘTNOŚCI TECHNICZNE:}
 \fontsize{10pt}{10pt}\selectfont
 \begin{itemize}[leftmargin=*, parsep=0.5pt]
-    \item \textbf{Python} jako główny język programowania z wysokim poziomem znajomości 
+    \item Języki programowania: \textbf{Python} (główny język 4+ lat), \textbf{SQL} (2+ lat), textbf{R} (1+ lat), \textbf{Julia} (Podstawowa wiedza)
     \item Biblioteki programistyczne: \textbf{NumPy, PyTorch, TensorFlow, Keras, Gymnasium, OpenCV, Scikit-Learn, Pandas, \\ NetworkX}
-    \item Zastosowania algorytmów głębokiego uczenia maszynowego
-    \item Wysoka znajomość algorytmów uczenia przez wzmacnianie
-    \item Wysoka umiejętność tworzenie modeli i zastosowania metod statystyki matematczynej wraz z wizualizacją
-    \item Duża znajomość algorytmów numerycznych i ich zastoswowań
-    \item Wysoka umiejętność zastosowań równań różniczkowych w praktyce
-    \item Umiejętność zastosowania struktur danych: \textbf{Stosy, Kolejki, Drzewa, Grafy}
-    \item Zarządzanie bazami danych: \textbf{SQL} wraz z automatyzacją za pomocą \textbf{Pythona}
+    \item Zastosowania algorytmów głębokiego uczenia maszynowego. Wysoka znajomość algorytmów uczenia przez wzmacnianie
+    \item Wysoka umiejętność tworzenie modeli i zastosowania metod statystyki matematczynej wraz z wizualizacją. 
+    Duża znajomość algorytmów numerycznych i ich zastoswowań. Umiejętność zastosowań równań różniczkowych w praktyce
+    \item Zastosowania struktur danych: \textbf{Stosy, Kolejki, Drzewa, Grafy}
     \item Znajomość tworzenia i administrowanie stronami internetowymi: \textbf{HTML, CSS, JavaScript, React, Flask, PHP}
     \item System kontroli wersji: \textbf{Git}
     \item System operacyjny: \textbf{Linux, Windows}
-    \item Znajomość nowego języka do obliczeń numerycznych: \textbf{Julia}
     \item Powłoka systemowa UNIX: \textbf{Bash} 
     \item Wirtualizacja i izolacja środowisk: \textbf{Docker, VirtualBox}
     \item Framework wspierający rozwój oprogramowania dla robotów: \textbf{ROS2}
@@ -70,28 +67,30 @@ Od zawsze fascynują mnie algorytmy, optymalizacja i rozwiązywanie złożonych 
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}DOŚWIADCZENIE:}
 \fontsize{10pt}{10pt}\selectfont
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Staż w firmie Colgate-Palmolive}, lipiec - wrzesień 2024
+    \item \textbf{Staż w firmie Colgate-Palmolive}, 07/2024 - 09/2024
     \begin{itemize}
         \item Tworzenie interaktywnej aplikacji do wizualizacji danch w \textbf{Pythonie}
         \item Zastosowanie technik widzenia maszynowego \textbf{OCR} 
         \item Analiza statystyczna danych oraz wizaulizacja na podstawie wykresów
         \item Dokumentacja techniczna dla aplikacji
     \end{itemize}
-    \item \textbf{Praktyki zawodowe w firme Zapaśnik IT}, październik - grudzień 2020
+    \item \textbf{Praktyki zawodowe w firme Zapaśnik IT}, 10/2020 - 12/2020
     \begin{itemize}
         \item Tworzenie skryptów w \textbf{Bashu} 
         \item Interaktywne zarządzanie zdalnymi połączeniami: \textbf{Putty}
     \end{itemize}
-    \item \textbf{Praktyki zawodowe w firmie Sports Media}, Marzec - kwiecień 2020
+    \item \textbf{Praktyki zawodowe w firmie Sports Media}, 03/2020 - 05/2020
     \begin{itemize}
         \item Zarządzanie siecami komputerowymi
         \item Tworzenie arkuszów kalkulacyjnych dla ilości i wyceny produktów: \textbf{Excel}
     \end{itemize}
 \end{itemize}
 
-\rule{17cm}{1pt} \\
+% \rule{17cm}{1pt} \\
 
 % WYKSZTAŁCENIE
+\newpage
+\vspace*{10pt}
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}WYKSZTAŁCENIE:}
 \fontsize{10pt}{10pt}\selectfont
 \begin{itemize}[leftmargin=*]
