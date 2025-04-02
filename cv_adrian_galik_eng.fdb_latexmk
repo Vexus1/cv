@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743626607.39872 "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_eng.tex" "cv_adrian_galik_eng.pdf" "cv_adrian_galik_eng" 1743626608.12376 0
-  "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_eng.tex" 1743626607.20448 8246 31d1cfdfaa232ba550f456d650eb1a42 ""
+["pdflatex"] 1743626695.07306 "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_eng.tex" "cv_adrian_galik_eng.pdf" "cv_adrian_galik_eng" 1743626695.8012 0
+  "/home/adrian/Desktop/programing/latex/cv/cv_adrian_galik_eng.tex" 1743626694.88484 8245 2dacd8972fb946b40ef4487aa4fe0649 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -95,9 +95,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736746889 3352332 881a48b5332b1b4b2e2976c9aba048ea ""
   "/usr/local/texlive/2024/texmf.cnf" 1736746751.75975 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "Galik_BANNER.png" 1742256916.44895 864305 3e70fa303158d65a86037a343a6da4f5 ""
-  "cv_adrian_galik_eng.aux" 1743626608.06548 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "cv_adrian_galik_eng.out" 1743626607.83148 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_adrian_galik_eng.tex" 1743626607.20448 8246 31d1cfdfaa232ba550f456d650eb1a42 ""
+  "cv_adrian_galik_eng.aux" 1743626695.74084 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "cv_adrian_galik_eng.out" 1743626695.49284 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_adrian_galik_eng.tex" 1743626694.88484 8245 2dacd8972fb946b40ef4487aa4fe0649 ""
   (generated)
   "cv_adrian_galik_eng.aux"
   "cv_adrian_galik_eng.log"
