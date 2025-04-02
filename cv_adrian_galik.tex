@@ -1,6 +1,6 @@
 \documentclass[10pt]{article}
 \usepackage{polski}
-\usepackage[left=1cm, right=1.5cm, top=0cm, bottom=1cm]{geometry}
+\usepackage[left=1cm, right=1cm, top=0cm, bottom=1cm]{geometry}
 \usepackage{graphicx}
 \usepackage[T1]{fontenc}
 \usepackage{charter}
@@ -12,6 +12,11 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcommand{\longline}{\rule{19.6cm}{1pt}}
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\usepackage{fontawesome5}
+
+
 
 \begin{document}
 
@@ -23,30 +28,33 @@
 \vspace*{-4ex}
 
 % Informacje kontaktowe
-\noindent
-\begin{tabularx}{\textwidth}{C{4cm} C{4cm} C{4cm} C{4cm}}
-    \textbf{Wrocław, Polska} &
-    \textbf{+48 663 383 000} &
-    \textbf{adrian1galik@gmail.com} &
-    \href{https://github.com/Vexus1}{\textbf{github.com/Vexus1}}
-\end{tabularx} \\
-\rule{\textwidth}{1pt} \\
+% \noindent
+\ \ \ \ \ \ \ \ \
+\faMapMarker* Wrocław, Polska \ \ \ \ \ \ \ \ \ \
+\faPhone +48 663 383 000 \ \ \ \ \ \ \ \ \ \
+\faEnvelope \ adrian1galik@gmail.com \ \ \ \ \ \ \ \ \ \
+\faGithub \ github.com/Vexus1
 
+
+\noindent \longline 
+\\ \\
 % O MNIE
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}O MNIE:}
 \fontsize{10pt}{10pt}\selectfont
+
+\noindent \longline 
 \\ \\
 \noindent Specjalista w dziedzinie \textbf{uczenia maszynowego}, ze szczególnym naciskiem na uczenie przez wzmacnianie.
 Biegła znajomość \textbf{modeli statystycznych} oraz ich praktycznego zastosowania do \textbf{analizy danych} i rozwiązywania problemów inżynierskich.
 Doświadczenie w implementacji \textbf{algorytmów numerycznych} oraz \textbf{równań różniczkowych} w zadaniach optymalizacyjnych.
 W projektach stosowana jest kombinacja solidnych podstaw matematycznych, dobrze zaprojektowanej architektury oraz języka \textbf{Python} jako głównego narzędzia programistycznego. 
 Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do gry Pong, wykorzystującego dwa podejścia z użyciem sieci neuronowych: \textbf{Deep Q-Learning} (DQN) oraz \textbf{Advantage Actor-Critic} (A2C).
-
-\noindent \rule{\textwidth}{1pt} \\
-
+\\ \\
 % UMIEJĘTNOŚCI TECHNICZNE
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}UMIEJĘTNOŚCI TECHNICZNE:}
-\fontsize{10pt}{10pt}\selectfont
+\fontsize{10pt}{10pt}\selectfont 
+\\ 
+\noindent \longline 
 \begin{itemize}[leftmargin=*, parsep=0.5pt]
     \item Języki programowania: \textbf{Python} (główny język 4+ lat), \textbf{SQL} (2+ lat), textbf{R} (1+ lat), \textbf{Julia} (Podstawowa wiedza)
     \item Biblioteki programistyczne: \textbf{NumPy, PyTorch, TensorFlow, Keras, Gymnasium, OpenCV, Scikit-Learn, Pandas, \\ NetworkX}
@@ -61,11 +69,12 @@ Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do
     \item Wirtualizacja i izolacja środowisk: \textbf{Docker, VirtualBox}
     \item Framework wspierający rozwój oprogramowania dla robotów: \textbf{ROS2}
 \end{itemize}
-\rule{17cm}{1pt} \\
 
 % DOŚWIADCZENIE
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}DOŚWIADCZENIE:}
 \fontsize{10pt}{10pt}\selectfont
+
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
     \item \textbf{Staż w firmie Colgate-Palmolive}, 07/2024 - 09/2024
     \begin{itemize}
@@ -87,15 +96,16 @@ Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do
 \end{itemize}
 
 % \rule{17cm}{1pt} \\
-
 % WYKSZTAŁCENIE
 \newpage
 \vspace*{10pt}
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}WYKSZTAŁCENIE:}
-\fontsize{10pt}{10pt}\selectfont
+\fontsize{10pt}{10pt}\selectfont 
+\\ 
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Informatyka - Studia Magisterskie, Politechnika Wrocławska}, marzec 2025 - obecnie
-    \item \textbf{Matematyka Stosowana - Studia inżynierskie, Politechnika Wrocławska}, październik 2021 - luty 2025
+    \item \textbf{Informatyka - Studia Magisterskie, Politechnika Wrocławska}, 03/2025 - obecnie
+    \item \textbf{Matematyka Stosowana - Studia inżynierskie, Politechnika Wrocławska}, 10/2021 - 02/2025
     \begin{itemize}
     \item \textbf{Praca dyplomowa:} Analiza efektywności metod uczenia przez wzmacnianie w grach komputerowych
     \item \textbf{Kursy:} Algorytmy i struktury danych, metody numeryczne, równania różniczkowe w technice, statystyka stosowana, pakiety statystyczne, bazy danych, 
@@ -103,13 +113,14 @@ Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do
     \item \textbf{Aktywność studencka:} Członek komisji do spraw Dydaktyki i Praw Studenta
     \end{itemize}
     \item \textbf{Zespół Szkół Teleinformatycznych i Elektronicznych we Wrocławiu, Technikum nr 7, Technik Informatyk}, \\
-    wrzesień 2017 - kwiecień 2021 
+    09/2017 - 04/2021 
 \end{itemize}
-\rule{17cm}{1pt} \\
 
 % PROJEKTY
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}PROJEKTY:}
 \fontsize{10pt}{10pt}\selectfont
+\\
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
     \item \textbf{Projekt Inżynierski} - Porównanie efektywności algorytmów uczenia przez wzmacnianie w grze \textbf{Pong}. 
     Przeanalizowano dwa podejścia wykorzystujące sieci neuronowe: \textbf{Deep Q-Learning} oraz \textbf{A2C}.
@@ -122,31 +133,34 @@ Przykładowe realizacje obejmują stworzenie agenta uczenia przez wzmacnianie do
     \item \textbf{Algorytm Min-Max do gry w szachy} - Algorytmiczne podejście do stworzenia bota przewidującego kilka ruchów w przód. Wykorzystanie metod tj: Zobrist Hasing, transposition table, iterative deepening. Utowrzenie GUI do gry z botem. (Python)
     \item \textbf{Gra 2D typu Arcade} - Zaprojektowana obiektowo przy użyciu biblioteki PyGame gra polegająca na zestrzeleniu \\ poruszających się przeciwników. (Python, Pygame)
 \end{itemize}
-\rule{17cm}{1pt} \\
 
 % CERTYFIKATY
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}CERTYFIKATY:}
-\fontsize{10pt}{10pt}\selectfont
+\fontsize{10pt}{10pt}\selectfont 
+\\ 
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
     \item Corporate Readiness Certificate 2024 - Data Science w praktyce
-    \item Kwalifikacja EE.09 - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych
-    \item Kwalifikacja EE.08 - Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci
+    \item Kwalifikacja EE.09, 2020 - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych 
+    \item Kwalifikacja EE.08, 2019 - Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci
 \end{itemize}
-\rule{17cm}{1pt} \\
 
 % JĘZYKI
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}JĘZYKI:}
 \fontsize{10pt}{10pt}\selectfont
+\\
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
     \item Polski ojczysty
     \item Angielski C1
     \item Hiszpański A1
 \end{itemize}
-\rule{17cm}{1pt} \\
 
 % ZAINTERESOWANIA
 \noindent \fontsize{14pt}{14pt}\selectfont \textbf{\color{Violet}ZAINTERESOWANIA:}
 \fontsize{10pt}{10pt}\selectfont
+\\
+\noindent \longline 
 \begin{itemize}[leftmargin=*]
     \item Uczenie maszynowe
     \item Matematyka
